@@ -430,6 +430,12 @@ test_cases:
     minor: '2'
     patch:
 
+  - user_agent_string: 'AppName/2.0 (iPad; iOS 8.0; Scale/2.00)'
+    family: 'AppName'
+    major: '2'
+    minor: '0'
+    patch:
+
   - user_agent_string: 'Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10'
     family: 'Mobile Safari'
     major: '4'

@@ -1974,6 +1974,13 @@ test_cases:
     patch: '2'
     patch_minor:
 
+  - user_agent_string: 'AppName/2.0 (iPad; iOS 8.0; Scale/2.00)'
+    family: 'iOS'
+    major: '8'
+    minor: '0'
+    patch:
+    patch_minor:
+
   - user_agent_string: '4 Pics 1 Word/3.9 (iPhone; iOS 7.0.2; Scale/2.00)'
     family: 'iOS'
     major: '7'
